@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://szaheerabbas.github.io/kids-math-game/sitemap.xml
